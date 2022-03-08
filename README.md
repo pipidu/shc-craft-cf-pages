@@ -1,1 +1,1 @@
-# shc-craft-cf-pages
+我的世界SHC-Craft.CFPAGES网站托管存储库
